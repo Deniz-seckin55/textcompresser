@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\denix\\source\\repos\\TextShortener\\TextShortener\\TextShortener.csproj",
+      "projectUniqueName": "C:\\Users\\denix\\Source\\Repos\\Deniz-seckin55\\textcompresser\\SourceCode\\TextShortener\\TextShortener\\TextShortener.csproj",
       "projectName": "TextShortener",
-      "projectPath": "C:\\Users\\denix\\source\\repos\\TextShortener\\TextShortener\\TextShortener.csproj",
+      "projectPath": "C:\\Users\\denix\\Source\\Repos\\Deniz-seckin55\\textcompresser\\SourceCode\\TextShortener\\TextShortener\\TextShortener.csproj",
       "packagesPath": "C:\\Users\\denix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\denix\\source\\repos\\TextShortener\\TextShortener\\obj\\",
+      "outputPath": "C:\\Users\\denix\\Source\\Repos\\Deniz-seckin55\\textcompresser\\SourceCode\\TextShortener\\TextShortener\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
