@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TextSTST/1.0.0": {
+        "dependencies": {
+          "TextShortener": "1.0.0"
+        },
+        "runtime": {
+          "TextSTST.dll": {}
+        }
+      },
+      "TextShortener/1.0.0": {
+        "runtime": {
+          "TextShortener.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TextSTST/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TextShortener/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

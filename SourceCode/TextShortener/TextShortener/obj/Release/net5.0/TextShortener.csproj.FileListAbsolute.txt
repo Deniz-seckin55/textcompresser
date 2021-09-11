@@ -1,0 +1,12 @@
+C:\Users\denix\source\repos\TextShortener\TextShortener\bin\Release\net5.0\TextShortener.deps.json
+C:\Users\denix\source\repos\TextShortener\TextShortener\bin\Release\net5.0\TextShortener.dll
+C:\Users\denix\source\repos\TextShortener\TextShortener\bin\Release\net5.0\ref\TextShortener.dll
+C:\Users\denix\source\repos\TextShortener\TextShortener\bin\Release\net5.0\TextShortener.pdb
+C:\Users\denix\source\repos\TextShortener\TextShortener\obj\Release\net5.0\TextShortener.csprojAssemblyReference.cache
+C:\Users\denix\source\repos\TextShortener\TextShortener\obj\Release\net5.0\TextShortener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denix\source\repos\TextShortener\TextShortener\obj\Release\net5.0\TextShortener.AssemblyInfoInputs.cache
+C:\Users\denix\source\repos\TextShortener\TextShortener\obj\Release\net5.0\TextShortener.AssemblyInfo.cs
+C:\Users\denix\source\repos\TextShortener\TextShortener\obj\Release\net5.0\TextShortener.csproj.CoreCompileInputs.cache
+C:\Users\denix\source\repos\TextShortener\TextShortener\obj\Release\net5.0\TextShortener.dll
+C:\Users\denix\source\repos\TextShortener\TextShortener\obj\Release\net5.0\ref\TextShortener.dll
+C:\Users\denix\source\repos\TextShortener\TextShortener\obj\Release\net5.0\TextShortener.pdb
